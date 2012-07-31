@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\CustomizandoexpressCheckout\CustomizandoexpressCheckout\bin\CustomizandoexpressCheckout.dll
+c:\users\user\documents\visual studio 2010\Projects\CustomizandoexpressCheckout\CustomizandoexpressCheckout\bin\CustomizandoexpressCheckout.pdb
+c:\users\user\documents\visual studio 2010\Projects\CustomizandoexpressCheckout\CustomizandoexpressCheckout\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\CustomizandoexpressCheckout\CustomizandoexpressCheckout\obj\Debug\CustomizandoexpressCheckout.dll
+c:\users\user\documents\visual studio 2010\Projects\CustomizandoexpressCheckout\CustomizandoexpressCheckout\obj\Debug\CustomizandoexpressCheckout.pdb
